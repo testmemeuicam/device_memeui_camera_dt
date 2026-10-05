@@ -1,7 +1,7 @@
 From 550d08d4c286ce629fea4a96603c7a08bc5115d9 Mon Sep 17 00:00:00 2001
 From: AdarshGrewal <adarshgrewal@gmail.com>
 Date: Wed, 3 Jun 2026 16:42:54 +0530
-Subject: [PATCH 3/7] Load obfuscated resources sanely
+Subject: [PATCH 3/8] Load obfuscated resources sanely
 
 ---
  smali_classes4/F8/a.smali | 18 +++++++++++++++++-

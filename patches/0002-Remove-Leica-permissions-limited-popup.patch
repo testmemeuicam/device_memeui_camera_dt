@@ -1,7 +1,7 @@
 From f194d1ea85a96dcf99bd952933a8be04bf64d296 Mon Sep 17 00:00:00 2001
 From: AdarshGrewal <adarshgrewal@gmail.com>
 Date: Wed, 3 Jun 2026 14:00:15 +0530
-Subject: [PATCH 2/9] Remove Leica permissions limited popup
+Subject: [PATCH 2/10] Remove Leica permissions limited popup
 
 ---
  smali/com/android/camera/ActivityBase$c.smali | 3 ---

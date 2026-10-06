@@ -22,3 +22,8 @@ allow platform_app proc_pressure_cpu:file r_file_perms;
 allow platform_app proc_pressure_mem:file r_file_perms;
 allow platform_app proc_pressure_io:file r_file_perms;
 
+binder_call(platform_app, hal_misys_vendor)
+binder_call(hal_misys_vendor, platform_app)
+binder_call(platform_app_36, hal_misys_vendor)
+binder_call(hal_misys_vendor, platform_app_36)
+allow platform_app_36 hal_misys_vendor_service:service_manager find;

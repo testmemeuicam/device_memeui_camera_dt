@@ -1,7 +1,7 @@
 From 4aa06aa08fea69ecf6a8c2c70ff5998c71fb32c1 Mon Sep 17 00:00:00 2001
 From: Sachin <sachinbarange86@gmail.com>
 Date: Sun, 4 Oct 2026 09:36:08 +0000
-Subject: [PATCH 9/10] Unlock Dual Video multi-camera recording mode
+Subject: [PATCH 9/11] Unlock Dual Video multi-camera recording mode
 
 Signed-off-by: Sachin <sachinbarange86@gmail.com>
 ---

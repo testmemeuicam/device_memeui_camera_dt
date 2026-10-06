@@ -1,7 +1,7 @@
 From e458bd10e6d879b1b048852f5308b77072fbc425 Mon Sep 17 00:00:00 2001
 From: AdarshGrewal <adarshgrewal@gmail.com>
 Date: Sun, 7 Jun 2026 18:38:55 +0530
-Subject: [PATCH 7/10] Fix shortcut icons
+Subject: [PATCH 7/11] Fix shortcut icons
 
 ---
  .../shortcut_capture_mode.webp                   | Bin 1806 -> 0 bytes

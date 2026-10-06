@@ -14,3 +14,7 @@ TARGET_SYSTEM_PROP += $(MIUICAMERA_PATH)/system.prop
 
 # Sepolicy
 BOARD_VENDOR_SEPOLICY_DIRS += $(MIUICAMERA_PATH)/sepolicy/vendor
+
+# VINTF
+DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += \
+    $(MIUICAMERA_PATH)/configs/compatibility_matrix.xml
